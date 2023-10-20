@@ -1,0 +1,10 @@
+
+int main(int argc, string[] argv) {
+    printf("Hello, World!\n");
+
+    int i = 0;
+    while (i < 100) {
+        printf("Iteration %d\n", i);
+        ++i;
+    }
+}
